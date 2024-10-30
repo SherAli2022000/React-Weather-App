@@ -12,7 +12,7 @@ A responsive and user-friendly weather application built with React, providing r
 
 ## Screenshots
 
-![Home Screen](./screenshot.png)
+![Home Screen](./Screenshot.png)
 ## Installation
 
 1. **Clone the repository:**
